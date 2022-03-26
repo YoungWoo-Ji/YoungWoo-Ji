@@ -1,4 +1,4 @@
-## 👋Hi, I’m @YoungWoo-Ji
+## 👋Hi, I’m @YoungWooJi
 
 자바스크립트, 파이썬 독학 중입니다.</br>
 카카오톡봇, 디스코드봇 주로 만들고 있습니다.
