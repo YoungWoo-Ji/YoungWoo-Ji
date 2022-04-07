@@ -3,7 +3,7 @@
 자바스크립트, 파이썬 독학 중입니다.</br>
 카카오톡봇, 디스코드봇 주로 만들고 있습니다.</br>
 ### My Stats
-[![YoungWoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngwoo-ji)](https://github.com/anuraghazra/github-readme-stats)<
+[![YoungWoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngwoo-ji)](https://github.com/anuraghazra/github-readme-stats)
 ### Baekjoon OJ
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ywooji)](https://solved.ac/ywooji)
