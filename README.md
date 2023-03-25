@@ -8,8 +8,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ywooji)](https://solved.ac/ywooji)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=ywooji&theme=warm)
-### ~~Discord~~
-개발중</br>
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=footer)
 <!---
 YoungWoo-Ji/YoungWoo-Ji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
