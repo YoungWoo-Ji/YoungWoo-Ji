@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=fadeIn&fontAlignY=38&height=300&section=header&text=Hello%20I`m%20YoungWooJi&fontSize=40)</br>
 자바스크립트, 파이썬 독학 중입니다.</br>
-카카오톡봇, 디스코드봇 주로 만들고 있습니다.</br>
+
 ### My Stats
 [![YoungWoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngwoo-ji)](https://github.com/anuraghazra/github-readme-stats)</br>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngwoo-ji)](https://github.com/Security-Development/github-readme-stats)-->
