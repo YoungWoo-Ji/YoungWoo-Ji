@@ -2,7 +2,7 @@
 자바스크립트, 파이썬 독학 중입니다.</br>
 
 ### My Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)</br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngwoo-ji)](https://github.com/anuraghazra/github-readme-stats)</br>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngwoo-ji)](https://github.com/Security-Development/github-readme-stats)-->
 ### Baekjoon OJ
 [![Solved.ac
